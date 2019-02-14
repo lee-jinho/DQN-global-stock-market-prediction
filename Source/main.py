@@ -28,7 +28,6 @@ C               = 1000          # parameter theta^* update interval ( TargetQ )
 Gamma           = 0.99          # discount factor
 P               = 0             # transaction panalty while training.  0.05 (%) for training, 0 for testing
 Beta            = 32            # batch size
-maxiter         = 5000000       # maxmimum iteration number         
 #################################################################################
 
 # initialize
